@@ -21,6 +21,14 @@ Feel free to browse, download, and utilize these resources to aid in your studie
 
 These notes can be helpful for you as well, but they should be used as a supplementary resource alongside other study materials.
 
+**Feel free to connect with me on social media:**
+
+Instagram :- https://www.instagram.com/im_.diwateyash/
+
+Facebook :- https://www.facebook.com/kingyashdiwate
+
+linkedin :- https://www.linkedin.com/in/yash-diwate-24a1952bb/
+
 Feel free to connect with me on social media:
 
 Instagram :- https://www.instagram.com/im_.diwateyash/
