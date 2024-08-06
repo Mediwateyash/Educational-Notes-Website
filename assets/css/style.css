@@ -1,5 +1,30 @@
-header{
-    height: 75px;
-    background-color:grey ;
-    padding-left: 50;
+*{
+    padding: 0.2%;
+    margin: 0;
+}
+
+#navbar{
+    height: 50px;
+    width: 75;
+    background-color: rgb(88, 151, 238 ,0.7);
+    
+}
+
+#logo{
+    color: rgb(255, 0, 153);
+    margin-top: 50px;
+   
+}
+
+button{
+    background-color: rgb(255, 255, 255);
+}
+
+a{
+    margin-right: 50px;
+    text-decoration: none;
+}
+footer{
+    background-color:grey
+    ;
 }
