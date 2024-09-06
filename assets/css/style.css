@@ -73,4 +73,11 @@
     width: 100%;
     justify-content: center;
   }
-  
+  .panel{
+    height: 40px;
+    background-color: #222f3d;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+}

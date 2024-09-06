@@ -125,3 +125,30 @@
     margin-bottom: 10px;
 
 }
+.pannelfather{
+    background-color:#067eff9f;
+}
+.pannel {
+    height: 40px;
+    
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center; /* Center the text horizontally */
+    white-space: nowrap;
+    position: relative; /* For animation */
+    animation: scroll-left 10s linear infinite;
+}
+
+.pannel p {
+    margin: 0; /* Remove default margin */
+}
+
+@keyframes scroll-left {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
