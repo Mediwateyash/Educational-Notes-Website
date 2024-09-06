@@ -98,12 +98,22 @@
 }
 
 .course-card button {
-    background-color: transparent;
+    background-color: rgb(93, 136, 221);
     border: none;
     cursor: pointer;
     display: inline-block;
+    padding: 10px 20px;
+    border-radius: 4px;
+    color: rgb(1, 157, 255);
+    transition: background-color 0.3s ease;
+    margin: 2%;
+    text-decoration: none;
+  color: white;
 }
-
+.course-card button a{
+    color: white;
+    text-decoration: none;
+}
 .course-card button svg {
     fill: #333;
 }
