@@ -62,18 +62,7 @@
     margin-right: 5px;
   }
 
-  footer{
-    height: 50px;
-    background-color:rgb(195, 195, 194);
-    color: white;
-    display: flex;
-    align-items: center;
-    position: fixed;
-    text-align: center;
-    width: 100%;
-    justify-content: center;
-  }
-  
+ 
 .course-grid {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
@@ -98,6 +87,7 @@
 }
 
 .course-card button {
+    width: 100%;
     background-color: rgb(93, 136, 221);
     border: none;
     cursor: pointer;
@@ -137,7 +127,7 @@
     justify-content: center; /* Center the text horizontally */
     white-space: nowrap;
     position: relative; /* For animation */
-    animation: scroll-left 10s linear infinite;
+    animation: scroll-left 20s linear infinite;
 }
 
 .pannel p {
@@ -151,4 +141,16 @@
     100% {
         transform: translateX(-100%);
     }
+}
+.footer {
+    height: 50px;
+    background-color: rgb(195, 195, 194);
+    color: white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+    position: fixed; /* Fixes the footer to the bottom */
+    bottom: 0; /* Ensures it's at the bottom */
 }
