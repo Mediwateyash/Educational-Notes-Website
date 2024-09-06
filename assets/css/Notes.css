@@ -74,3 +74,44 @@
     justify-content: center;
   }
   
+.course-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+    padding: 20px;
+}
+
+.course-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.course-card h2 {
+    margin-bottom: 10px;
+}
+
+.course-card p {
+    margin-bottom: 15px;
+}
+
+.course-card button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.course-card button svg {
+    fill: #333;
+}
+
+.coverphoto-card{
+    width: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 10px;
+
+}
