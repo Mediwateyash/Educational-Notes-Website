@@ -65,7 +65,7 @@
  
 .course-grid {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     gap: 20px;
     padding: 20px;
 }
@@ -103,9 +103,11 @@
 .course-card button a{
     color: white;
     text-decoration: none;
+
 }
 .course-card button svg {
     fill: #333;
+    
 }
 
 .coverphoto-card{
