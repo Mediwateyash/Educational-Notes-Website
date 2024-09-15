@@ -1,7 +1,7 @@
 # Educational-Notes-Website
 
 ### DY Notes Cloud
-Till now only notes section is working 
+Till now only notes section is working very soon more will start
 **Description:**
 
 Welcome to the DY Notes Cloud repository! This project hosts my personal collection of meticulously researched handwritten notes, e-books, video materials, and many more educational resources, aimed at providing valuable support for students and learners.
