@@ -86,8 +86,8 @@
     margin-bottom: 15px;
 }
 
-.course-card button {
-    width: 100%;
+.button {
+    width: 80%;
     background-color: rgb(93, 136, 221);
     border: none;
     cursor: pointer;
@@ -100,12 +100,12 @@
     text-decoration: none;
   color: white;
 }
-.course-card button a{
+.button a{
     color: white;
     text-decoration: none;
 
 }
-.course-card button svg {
+.button svg {
     fill: #333;
     
 }
