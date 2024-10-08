@@ -1,5 +1,5 @@
 # Educational-Notes-Website
-background is not addign please help anyone
+
 ### DY Notes Cloud
 Till now only notes section is working very soon more will start
 **Description:**
